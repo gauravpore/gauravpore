@@ -14,7 +14,7 @@
       
 #### <em> 🔸 Currently I am learning frontend (html/CSS) and Core Java
 #### <em> 🔸 Working on Django project to build a portfolio website.
-#### <em> 🔸 [My Resume](https://drive.google.com/file/d/1G2nn9IvIWhZN_z7Psh_aS6HmWEDOOeLT/view?usp=sharing) | Open to full-time job opportunities for SDE-1 role.
+#### <em> 🔸 [My Resume](https://drive.google.com/file/d/1G2nn9IvIWhZN_z7Psh_aS6HmWEDOOeLT/view?usp=sharing) | Open to full-time job opportunities for SDE role.
 ## 📌My Tech Toolbox 🧰 :  
 <p align="left">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
