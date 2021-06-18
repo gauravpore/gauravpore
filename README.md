@@ -1,4 +1,4 @@
-# print (" Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I am Gaurav! ")
+# print(" Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I am Gaurav! ")
 <div align="center">
   <p>
     <a href="https://www.linkedin.com/in/gaurav-pore-70a6501b0/"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
