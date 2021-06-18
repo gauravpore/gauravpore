@@ -11,6 +11,23 @@
  </div>
 
    <img width=400px height=320px align="left" src="https://media0.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif?cid=ecf05e470cmo4pl5k24g4141ipunysdvq1d7m5uobfe4u0zy&rid=giphy.gif&ct=g"/>	
+      
+#### <em> 🔸 Currently I am learning frontend (html/CSS) and Core Java
+#### <em> 🔸 Working on Django project to build a portfolio website.
+#### <em> 🔸 [My Resume](https://drive.google.com/file/d/1G2nn9IvIWhZN_z7Psh_aS6HmWEDOOeLT/view?usp=sharing) | Open to full-time job opportunities for SDE-1 role.
+## 📌My Tech Toolbox 🧰 :  
+<p align="left">
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/> 
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="Java" width="40" height="40"/> 
+<img src="https://img.icons8.com/fluent/48/26e07f/github.png"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+<img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/>
+<img src="https://img.icons8.com/windows/32/26e07f/django.png"/>
+<img src="https://img.icons8.com/color/48/26e07f/pycharm.png"/>
+<img src="https://img.icons8.com/color/48/26e07f/intellij-idea.png"/>
+</p>
 
-
+      
 
