@@ -25,6 +25,7 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 <img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/>
 <img src="https://img.icons8.com/windows/32/26e07f/django.png"/>
+&nbsp; &nbsp; &nbsp;
 <img src="https://img.icons8.com/color/48/26e07f/pycharm.png"/>
 <img src="https://img.icons8.com/color/48/26e07f/intellij-idea.png"/>
 </p>
