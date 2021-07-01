@@ -14,7 +14,7 @@
       
 #### <em> 🔸 Have 1-year of intensive experience in Python Development.
 #### <em> 🔸 Currently I am learning frontend (html/CSS) and Core Java.
-#### <em> 🔸 Built and worked on Machine Learning Pojects.
+#### <em> 🔸 Built and worked on Machine Learning Projects.
 #### <em> 🔸 Working on Django project to build a portfolio website.
 #### <em> 🔸 [My Resume](https://drive.google.com/file/d/1G2nn9IvIWhZN_z7Psh_aS6HmWEDOOeLT/view?usp=sharing) | Open to full-time job opportunities for SDE role.
 ## 📌My Tech Toolbox 🧰 :  
