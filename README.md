@@ -13,9 +13,8 @@
    <img width=400px height=320px align="left" src="https://media0.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif?cid=ecf05e470cmo4pl5k24g4141ipunysdvq1d7m5uobfe4u0zy&rid=giphy.gif&ct=g"/>	
       
 #### <em> 🔸 Have 1-year of intensive experience in Python Development.
-#### <em> 🔸 Currently I am learning frontend (html/CSS) and Core Java.
 #### <em> 🔸 Built and worked on Machine Learning Projects.
-#### <em> 🔸 Working on Django project to build a portfolio website.
+#### <em> 🔸 Currently I'm working on Django project to build a portfolio website.
 #### <em> 🔸 [My Resume](https://drive.google.com/file/d/1G2nn9IvIWhZN_z7Psh_aS6HmWEDOOeLT/view?usp=sharing) | Open to full-time job opportunities for SDE role.
 ## 📌My Tech Toolbox 🧰 :  
 <p align="left">
