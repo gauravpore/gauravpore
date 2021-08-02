@@ -14,7 +14,7 @@
       
 #### <em> 🔸 Have 1-year of intensive experience in Python Development.
 #### <em> 🔸 Built and worked on Machine Learning Projects.
-#### <em> 🔸 Currently I'm working on Djangovportfolio website.
+#### <em> 🔸 Currently I'm working on Django portfolio website.
 #### <em> 🔸 [My Resume](https://drive.google.com/file/d/1G2nn9IvIWhZN_z7Psh_aS6HmWEDOOeLT/view?usp=sharing) | Open to full-time job opportunities for SDE role.
 ## 📌My Tech Toolbox 🧰 :  
 <p align="left">
