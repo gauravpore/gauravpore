@@ -10,7 +10,7 @@
    </p>
  </div>
 
-   <img width=400px height=320px align="left" src="https://media0.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif?cid=ecf05e470cmo4pl5k24g4141ipunysdvq1d7m5uobfe4u0zy&rid=giphy.gif&ct=g"/>	
+   <img width=400px height=320px align="left" src="https://github.com/gauravpore/gauravpore/blob/main/code.gif"/>	
       
 #### <em> 🔸 Have 1-year of intensive experience in Python Development.
 #### <em> 🔸 Built and worked on Machine Learning Projects.
