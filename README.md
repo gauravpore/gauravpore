@@ -12,7 +12,7 @@
 
    <img width=400px height=320px align="left" src="https://github.com/gauravpore/gauravpore/blob/main/code.gif"/>	
       
-#### <em> 🔸 Have 1-year of intensive experience in Python Development.
+#### <em> 🔸 Have 1.5+ years of intensive experience in Python Development.
 #### <em> 🔸 Built and worked on Machine Learning Projects.
 #### <em> 🔸 Currently I'm working on Django portfolio website.
 #### <em> 🔸 [My Resume](https://drive.google.com/file/d/1G2nn9IvIWhZN_z7Psh_aS6HmWEDOOeLT/view?usp=sharing) | Open to full-time job opportunities for SDE role.
