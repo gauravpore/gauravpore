@@ -15,7 +15,7 @@
 #### <em> 🔸 Have 1.5+ years of intensive experience in Python Development.
 #### <em> 🔸 Built and worked on Machine Learning Projects.
 #### <em> 🔸 Currently, I'm focussing on Back-end Engineering.
-#### <em> 🔸 [My Resume](https://drive.google.com/file/d/1G2nn9IvIWhZN_z7Psh_aS6HmWEDOOeLT/view?usp=sharing) | Open to full-time job opportunities for SDE role.
+#### <em> 🔸 [My Resume](https://drive.google.com/file/d/1ORPN6VjdlAQdmiZVqFgiQiX4rjXXR_89/view?usp=share_link) | Open to full-time job opportunities for SDE role.
 #### <em> 🔸 Visit my portfolio website here --> [gforce.io](https://gforce.pythonanywhere.com/)
 ## 📌My Tech Toolbox 🧰 :  
 <p align="left">
