@@ -12,11 +12,9 @@
 
    <img width=400px height=320px align="left" src="https://github.com/gauravpore/gauravpore/blob/main/code.gif"/>	
       
-#### <em> 🔸 I've 2 years of intensive experience in Backend Development.
-#### <em> 🔸 I'm currently working in the Fin-Tech domain, as a Software Engineer (Backend).
+#### <em> 🔸 I've 3 years of intensive experience in Backend Development.
+#### <em> 🔸 I'm currently working in the Legal-Tech domain, as a Software Engineer (Backend).
 #### <em> 🔸 I love to build new exciting features and build scalable APIs.
-#### <em> 🔸 [My Resume](https://drive.google.com/file/d/1ORPN6VjdlAQdmiZVqFgiQiX4rjXXR_89/view?usp=share_link) | Open to full-time opportunities for SDE (Backend) roles.
-#### <em> 🔸 Visit my portfolio website here --> [gforce.io](https://gforce.pythonanywhere.com/)
 ## 📌My Tech Toolbox 🧰 :  
 <p align="left">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
